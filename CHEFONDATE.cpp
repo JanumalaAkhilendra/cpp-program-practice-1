@@ -1,3 +1,5 @@
+// this is a program of leetcode
+
 #include<iostream>
 using namespace std;
 int main(){
